@@ -7,3 +7,7 @@ def greet(name):
     return f"Hello, {name}!"
 
 print(greet("Alice"))
+
+def add(a, b):
+    """Function to add two numbers."""
+    return a + b
